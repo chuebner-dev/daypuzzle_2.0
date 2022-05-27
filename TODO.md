@@ -1,0 +1,2 @@
+- [ ] Think about event schema
+- [ ] continue example integration from [tutorial](https://docs.amplify.aws/start/getting-started/integrate/q/integration/android/#query-todos)
